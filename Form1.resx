@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="id.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tx_frequency.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="location.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="modulation.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="signal.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="service.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="owner.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="call.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="label_Description.Text" xml:space="preserve">
+    <value>Национальная радиостанция «Звезда» - это первое государственно-патриотическое радио в России, основная задача которого - воспитание у широкой аудитории уважения к своей стране.
+ «Звезда» учреждена в июне 2005 г. Центральной телевизионной и радиовещательной студией Министерства обороны Российской Федерации. С 1 сентября 2005 г. радиостанция работает в круглосуточном режиме в информационно-музыкальном формате. Программа распространяется через искусственные спутники Земли «Intelsat 904» и «Ямал-200», а также в Интернете на сайте http://tvzvezda.ru/radio и на главной странице Интернет-портала «Рамблер». Прием программ радиостанции «Звезда» возможен на всей территории Российской Федерации, на территории стран бывшего Советского Союза, Китая и стран Европы. 
+ За прошедший год по итогам участия в конкурсах Федеральной конкурсной комиссии радиостанцией «Звезда» получено право на вещание в городах: Санкт-Петербург, Брянск, Липецк, Псков, Новороссийск, Рязань, Самара, Калининград, Астрахань, Архангельск, Кызыл, Абакан. На сегодняшний день потенциальная аудитория радиостанции составляет 45 млн. человек.
+ Вещание в городах:
+Город	Частота, МГц
+Москва	95,6
+Санкт-Петербург	1440 кГц
+Новороссийск	66,41
+Архангельск - ком.сеть АТК
+Брянск	72,26
+Липецк	72,8
+Рязань	70,34
+Самара 	729 кГц
+Абакан	106,2
+Елец	104,1
+Кызыл	102,5
+Липецк	91,1
+Липецкая область	 пров.
+Новороссийск	107,4
+Комсомольск-на-Амуре	103,0
+Тула	проводное
+Душанбе	103,6
+---
+1440кГц - из СПб.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAAEgAAABIAAAAAAAAAAAA
+        AAD9//z///z9//74+vr///z7//r///fMzL6koZn8//X///f///X+/v76//77//79//z///v//vn//v/4
+        /Pf///7z9e/29+3Ly72GhHn29ujb2c5eXkDNzsz///77//79///9//79//v///j4/PHp6uChoZN3e2iF
+        hXmFg3mHh2mNi2l2eVlcWTrU07n///76///8/fv6/P36/vPR1seXmY2+vLH8/+/f39GHh3vO0cJ3c1ac
+        nJZ+emFcWED++/3///7///z9//vc4suDjHLi49/+//v2/Pfw+eyurp5TTzJZWTtlXDefn5mlqZ7///r7
+        //z9//z4/PaUmYTK0Ln9/vr///78//izu7FXVzlaWDpXVTdfWz6dlG+Ujnvk4dn///z///708+mDh279
+        /+z7+fj///7k5cVXVTdUUzFPSy5SUjSGemL6+u7Qz8GmpZv///nKzMDLy72Eg3nR1L7k5eP18/NXVTdX
+        UzZYVTZSUC5WUjXl2cH7//nGx72Gg3vMzL6ys6OJh32Hh3uGhnjV2dOpqJpaVjlWUjVXVTdZVTisrKb9
+        /fe0s6WHhniHh3mMin////fq6tyIhHn9/ev4+fDb4NdNQhxZVThbWTeSjWz7+/X9//n5++/c3tKTlob/
+        //L9//7z9PC9vLLj5dH+/vJlXjfW2tWnqZ2XmZPu7OT9//////7///WdnZHFxMD///v///76//za2syv
+        rqBrYj3Gw7T09vD5/Pr3+fP8/fT9//76+/fOz8WMjYP4+vT///v3+Pb8/fny+ezIxruSjYT07+b///ne
+        3tKJh3z//vD//vS7urCBg3fk5Nj4+fX9/vr9//z9/vrQ0MJgVzX9//6wsKSOjoCgoJSDhnducGSFhXmi
+        oJXq6t7///X///z+//r9/////v+QloP+//31+/r////+/v7DybiGhnrGyLzw8Or2+fD5/vX///v9//7/
+        /v/9//7//v////z///P7///7//7///jf38+jo5X///j///z///z8//v///v9//7///8AAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+</root>

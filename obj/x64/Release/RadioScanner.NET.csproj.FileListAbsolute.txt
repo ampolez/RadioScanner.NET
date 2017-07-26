@@ -1,0 +1,11 @@
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\bin\x64\Release\RadioScanner.NET.exe.config
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\bin\x64\Release\RadioScanner.NET.exe.manifest
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\bin\x64\Release\RadioScanner.NET.application
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\bin\x64\Release\RadioScanner.NET.exe
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\bin\x64\Release\System.Data.SQLite.dll
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\obj\x64\Release\RadioScanner.NET.Form1.resources
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\obj\x64\Release\RadioScanner.NET.Properties.Resources.resources
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\obj\x64\Release\RadioScanner.NET.csproj.GenerateResource.Cache
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\obj\x64\Release\RadioScanner.NET.exe.manifest
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\obj\x64\Release\RadioScanner.NET.application
+d:\electronics\CarPC\SDR\RadioScanner.NET\RadioScanner.NET\obj\x64\Release\RadioScanner.NET.exe
